@@ -1,5 +1,5 @@
 # WebPush.NetCore
-
+[![Travis](https://travis-ci.org/vip30/WebPush-NetCore.svg?branch=master)
 [![NuGet](https://img.shields.io/nuget/v/WebPush-NetCore.svg)](https://www.nuget.org/packages/WebPush-NetCore/)
 
 A Brief Intro
