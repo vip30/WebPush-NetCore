@@ -1,5 +1,5 @@
 ### As the original repo is supported Dotnet core already, I guess this repo can be archived now.
-### Please go the [Original repo](https://github.com/web-push-libs/web-push-csharp) and view the [Dotnet Example](https://github.com/coryjthompson/WebPushDemo)
+### Please go the [Original repo](https://github.com/web-push-libs/web-push-csharp) and view the [ASP.NET MVC Core Example](https://github.com/coryjthompson/WebPushDemo)
 
 ```
 # WebPush.NetCore
